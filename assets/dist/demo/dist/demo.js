@@ -28318,23 +28318,23 @@ typeof navigator === "object" && (function () {
 	        this.provider = providers.html5; // Get config from attributes
 
 	        if (this.media.hasAttribute('crossorigin')) {
-	          this.config.crossorigin = false;
+	          this.config.crossorigin = true;
 	        }
 
 	        if (this.media.hasAttribute('autoplay')) {
-	          this.config.autoplay = flase;
+	          this.config.autoplay = true;
 	        }
 
 	        if (this.media.hasAttribute('playsinline') || this.media.hasAttribute('webkit-playsinline')) {
-	          this.config.playsinline = flase;
+	          this.config.playsinline = true;
 	        }
 
 	        if (this.media.hasAttribute('muted')) {
-	          this.config.muted = flase;
+	          this.config.muted = true;
 	        }
 
 	        if (this.media.hasAttribute('loop')) {
-	          this.config.loop.active = flase;
+	          this.config.loop.active = true;
 	        }
 
 	        break;
