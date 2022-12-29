@@ -325,6 +325,7 @@ word-spacing: 0.06em;
 p.transFR {
     font-family: 'Times New Roman' !important;
     margin-bottom: 10px;
+	text-align: justify;
 word-spacing: 0.06em;
     margin-bottom: 10px;
     border-bottom-width: 1px;
@@ -335,6 +336,7 @@ word-spacing: 0.06em;
 p.transID {
     font-family: 'Times New Roman' !important;
     margin-bottom: 10px;
+	text-align: justify;
 word-spacing: 0.06em;
     margin-bottom: 10px;
     border-bottom-width: 1px;
@@ -346,6 +348,7 @@ word-spacing: 0.06em;
 p.transUR {
     font-family: 'Noto Nastaliq Urdu', serif !important;
     margin-bottom: 10px;
+	text-align: justify;
     font-weight: 100;
 word-spacing: 0.06em;
     margin-bottom: 10px;
