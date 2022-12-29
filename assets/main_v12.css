@@ -383,11 +383,12 @@ p.arabicText {
     
     direction: rtl;
     font-size: 35px;
-    /* remove */
     text-align: center;
+    /* remove */
+    
     margin: 0 !important;
     top: -20px;
-	border-bottom-width: 1px;
+    border-bottom-width: 1px;
     border-top-color: grey;
     border-bottom-style: ridge;
 }
