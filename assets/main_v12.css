@@ -315,6 +315,7 @@ word-spacing: 0.06em;
 p.translitTR {
     font-family: 'Times New Roman' !important;
     margin-bottom: 10px;
+	text-align: justify;
 word-spacing: 0.06em;
     margin-bottom: 10px;
     border-bottom-width: 1px;
